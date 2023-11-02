@@ -1,0 +1,13 @@
+D:\5sem\examples\WPFFrameworkControlExample\WPFFrameworkControlExample\bin\Debug\WPFFrameworkControlExample.dll
+D:\5sem\examples\WPFFrameworkControlExample\WPFFrameworkControlExample\bin\Debug\WPFFrameworkControlExample.pdb
+D:\5sem\examples\WPFFrameworkControlExample\WPFFrameworkControlExample\obj\Debug\WPFFrameworkControlGauge.csproj.AssemblyReference.cache
+D:\5sem\examples\WPFFrameworkControlExample\WPFFrameworkControlExample\obj\Debug\UserControl1.g.cs
+D:\5sem\examples\WPFFrameworkControlExample\WPFFrameworkControlExample\obj\Debug\WPFFrameworkControlExample_MarkupCompile.cache
+D:\5sem\examples\WPFFrameworkControlExample\WPFFrameworkControlExample\obj\Debug\WPFFrameworkControlExample_MarkupCompile.lref
+D:\5sem\examples\WPFFrameworkControlExample\WPFFrameworkControlExample\obj\Debug\UserControl1.baml
+D:\5sem\examples\WPFFrameworkControlExample\WPFFrameworkControlExample\obj\Debug\WPFFrameworkControlExample.g.resources
+D:\5sem\examples\WPFFrameworkControlExample\WPFFrameworkControlExample\obj\Debug\WPFFrameworkControlExample.Properties.Resources.resources
+D:\5sem\examples\WPFFrameworkControlExample\WPFFrameworkControlExample\obj\Debug\WPFFrameworkControlGauge.csproj.GenerateResource.cache
+D:\5sem\examples\WPFFrameworkControlExample\WPFFrameworkControlExample\obj\Debug\WPFFrameworkControlGauge.csproj.CoreCompileInputs.cache
+D:\5sem\examples\WPFFrameworkControlExample\WPFFrameworkControlExample\obj\Debug\WPFFrameworkControlExample.dll
+D:\5sem\examples\WPFFrameworkControlExample\WPFFrameworkControlExample\obj\Debug\WPFFrameworkControlExample.pdb
